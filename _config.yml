@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "적당맨 개발 블로그"
+title: "적당한 개발 블로그"
 subtitle: "적당적당히 살자"
 email: haakjunlee@gmail.com
 name: Hakjun Lee
 description: >
-  적당적당히 사는 적당맨 개발 블로그
+  적당한 개발 블로그
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
